@@ -1,2 +1,2 @@
 # hello-world
-Repository made for learning Git
+Tha's all I do, learning
